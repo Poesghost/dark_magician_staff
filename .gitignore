@@ -1,0 +1,4 @@
+*.blend?
+*.gcode?
+models/references/
+prints/gcode/
