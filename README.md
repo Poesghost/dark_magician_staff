@@ -20,7 +20,7 @@ The model was built using [Blender](https://www.blender.org/), exported as a `.s
 | staff_tip1.stl                 | Not yet tested           | Not yet tested           |
 | staff_tip2.stl                 | Not yet tested           | Not yet tested           |
 
-> For staff_tip1 and staff_tip2 STL files you will need to chop them up in your slicer to fit on your bed. With the curvature or bend of these parts it may be difficult to have holes for wooden dowels. **If you need help with chopping these parts up, please create an issue in this repo and assign it to me. I will help you out as quickly as I can.** A glue I recommend it J-B Weld Plastic Bonder. 
+> For staff_tip1 and staff_tip2 STL files you will need to chop them up in your slicer to fit on your bed. With the curvature or bend of these parts it may be difficult to have holes for wooden dowels. **If you need help with chopping these parts up, please create an issue in this repo and assign it to me. I will help you out as quickly as I can.** A glue I recommend is J-B Weld Plastic Bonder. 
 
 ## Images
 
