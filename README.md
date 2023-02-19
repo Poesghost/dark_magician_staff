@@ -11,10 +11,15 @@ The model was built using [Blender](https://www.blender.org/), exported as a `.s
 | Version 1                      |  X, Y, Z (Prusa Mini+)   | X, Y, Z (Prusa i3 MK3S+) |
 | -----------                    | -----------              | -----------              |
 | STL                            | 180mm X 180mm X 180mm    | 250mm X 210mm X 210mm    |
+| rod1.stl                       | Not yet tested           | Not yet tested           |
+| rod2.stl                       | Not yet tested           | Not yet tested           |
+| rod3.stl                       | Not yet tested           | Not yet tested           |
+| rod4.stl                       | Not yet tested           | Not yet tested           |
+| rod5.stl                       | Not yet tested           | Not yet tested           |
+| rod6.stl                       | Not yet tested           | Not yet tested           |
+| staff_footer1.stl              | Not yet tested           | Not yet tested           |
 | staff_footer_bottom_left1.stl  | Not yet tested           | Not yet tested           |
 | staff_footer_bottom_right1.stl | Not yet tested           | Not yet tested           |
-| staff_footer_top_left1.stl     | Not yet tested           | Not yet tested           |
-| staff_footer_top_right1.stl    | Not yet tested           | Not yet tested           |
 | staff_sphere_bottom1.stl       | Not yet tested           | Not yet tested           |
 | staff_sphere_top1.stl          | Not yet tested           | Not yet tested           |
 | staff_tip1.stl                 | Not yet tested           | Not yet tested           |
